@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! 
+<h2 align="left">Hi 👋! <br>
 My name is Janio Alberto da Nobrega Junior and <br>
 I'm a Full Stack Developer, <br>
 from Freelancer</h2>
