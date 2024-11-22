@@ -47,5 +47,15 @@ from Freelancer</h2>
   </a>
 </div>
 
+###
+<div align="left">
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+<p align="left">
+  <img
+    src="https://profile-counter.glitch.me/nobrejanio/count.svg"
+    alt="Número de visitantes no perfil"
+  />
+</p>
 
 
